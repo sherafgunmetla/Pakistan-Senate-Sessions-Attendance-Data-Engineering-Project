@@ -1,11 +1,12 @@
 # Pakistan Senate Sessions Attendance | Data Engineering Project
 
 
+## Purpose 
+The data engineering project is about finding interesting insights from a country's Senate website. The website contains data about the session and the members/senators who were present in it. Senators information, e.g., names, constituencies, party, province/state, and the city are also available. The project aims to blend all of this for interesting insights like which party's senators participate in the sessions regularly, individual senator participating trends, city or state/province-wise participation, etc. 
+
+
 ## Introduction 
 In this data engineering project, we leverage Amazon S3 and AWS Lambda to create a scalable and efficient data processing pipeline. Amazon S3 serves as our primary storage solution, enabling us to store and manage vast amounts of data securely. AWS Lambda facilitates serverless computing, allowing us to execute code responding to events, such as data uploads, for real-time processing and transformation. The processed data is then ingested into Snowflake, our cloud-based data warehouse, which can be seamlessly queried and analyzed. Finally, we utilize Tableau for dynamic data visualization, empowering stakeholders to explore insights and trends interactively. 
-
-## Purpose 
-The data engineering project is about finding interesting insights from a country's senate website. The website contains data about the session and the members/senator who were present in the session. Senators information e.g names, constituencies, party, province/state, and the city is also present. The project aims to blend all of this for interesting insights like which party's senators participate in the sessions regularly, individual senator participating trends, city or state/province-wise participation, etc. 
 
 ## Directory contents:
  - Screenshots 
