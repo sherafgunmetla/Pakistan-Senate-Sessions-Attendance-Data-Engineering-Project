@@ -60,17 +60,6 @@ There are 2 datasets. First one contains the members details e.g Name, Constitue
 ## Tableau Visualization  
 
 
-![Main Dashboard](https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/Screenshots/Date%20Filter.png)
-
---------------
-
-![Main Dashboard](https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/Screenshots/Donult%20Filter%202.png)
-
---------------
-
-![Main Dashboard](https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/Screenshots/Donut%20Filter.png)
+![Main Dashboard](https://public.tableau.com/views/PakistanSenateAttendance-2024onwards/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 
---------------
-
-![Main Dashboard](https://github.com/sherafgunmetla/pak-senate-data-engineering/blob/main/Screenshots/Party%20Filter.png)
