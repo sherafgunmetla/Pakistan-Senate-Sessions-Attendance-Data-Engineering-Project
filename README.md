@@ -60,6 +60,6 @@ There are 2 datasets. First one contains the members details e.g Name, Constitue
 ## Tableau Visualization  
 
 
-![Main Dashboard](https://public.tableau.com/views/PakistanSenateAttendance-2024onwards/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+![Main Dashboard](https://public.tableau.com/app/profile/sher.afgun/viz/PakistanSenateAttendance-2024onwards/Dashboard1)
 
 
