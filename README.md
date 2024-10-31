@@ -64,3 +64,5 @@ There are 2 datasets. First one contains the members details e.g Name, Constitue
 https://public.tableau.com/app/profile/sher.afgun/viz/PakistanSenateAttendance-2024onwards/Dashboard1
 
 
+## ! UPDATE ! 
+To keep the tableau dashboard up to date, I have replaced the snowflake with Google Sheets, for live data. Now the data is being dumped to Google Sheets instead of Snowflake. This change is because Tabluea requires a paid version for live data.
