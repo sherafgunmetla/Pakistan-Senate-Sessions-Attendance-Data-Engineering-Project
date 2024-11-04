@@ -63,6 +63,12 @@ There are 2 datasets. First one contains the members details e.g Name, Constitue
 
 https://public.tableau.com/app/profile/sher.afgun/viz/PakistanSenateAttendance-2024onwards/Dashboard1
 
+## Key insights I found:  
+
+▷ Around 65% of the Senators are generally present in the sessions, meaning a substantial number are often absent, and the house rarely has a full attendance.
+▷ Sessions with a higher attendance rate mostly occur in June and September. The reason might be that the country's budgets and a constitutional amendment were passed in the respective months.
+▷ The Leader of the Opposition was present in 78% of the sessions, while the Leader of the House attended only 20% of the time. This substantial difference may be attributed to the latter being busy with other government matters, such as an official foreign tour.
+
 
 ## ! UPDATE ! 
 To keep the tableau dashboard up to date, I have replaced the snowflake with Google Sheets, for live data. Now the data is being dumped to Google Sheets instead of Snowflake. This change is because Tabluea requires a paid version for live data.
