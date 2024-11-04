@@ -65,9 +65,9 @@ https://public.tableau.com/app/profile/sher.afgun/viz/PakistanSenateAttendance-2
 
 ## Key insights I found:  
 
-▷ Around 65% of the Senators are generally present in the sessions, meaning a substantial number are often absent, and the house rarely has a full attendance.
-▷ Sessions with a higher attendance rate mostly occur in June and September. The reason might be that the country's budgets and a constitutional amendment were passed in the respective months.
-▷ The Leader of the Opposition was present in 78% of the sessions, while the Leader of the House attended only 20% of the time. This substantial difference may be attributed to the latter being busy with other government matters, such as an official foreign tour.
+1. Around 65% of the Senators are generally present in the sessions, meaning a substantial number are often absent, and the house rarely has a full attendance.
+2. Sessions with a higher attendance rate mostly occur in June and September. The reason might be that the country's budgets and a constitutional amendment were passed in the respective months.
+3. The Leader of the Opposition was present in 78% of the sessions, while the Leader of the House attended only 20% of the time. This substantial difference may be attributed to the latter being busy with other government matters, such as an official foreign tour.
 
 
 ## ! UPDATE ! 
