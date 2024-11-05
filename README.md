@@ -2,7 +2,11 @@
 
 
 ## Purpose 
-The data engineering project is about finding interesting insights from a country's Senate website. The website contains data about the session and the members/senators who were present in it. Senators information, e.g., names, constituencies, party, province/state, and the city are also available. The project aims to blend all of this for interesting insights like which party's senators participate in the sessions regularly, individual senator participating trends, city or state/province-wise participation, etc. 
+As the US presidential elections approach, I found an article highlighting how voters can track their representatives' attendance at Senate sessions and how this might influence their voting decisions. This got me thinking about my own birth country—curious if similar statistics were available, I did a quick search, but I came up empty-handed.
+
+Realizing this gap needed to be filled, I dove into the country's Senate website. While I found the data, it was neither aggregated nor complete.
+
+Determined to make sense of it all, I set out to create a solution. This journey led me to build an end-to-end ETL pipeline, which now powers a publicly accessible and up-to-date Tableau dashboard for everyone to explore.
 
 
 ## Introduction 
